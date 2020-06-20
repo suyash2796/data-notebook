@@ -1,2 +1,2 @@
 # data-notebook
-Data Science Notebooks
+Data Science related Notebooks
